@@ -16,3 +16,10 @@ import numpy as np
 myClass['Non-Andrew Email'][myClass['Non-Andrew Email']==""] = np.nan
 myClass['Non-Andrew Email'].isna().value_counts()
 myClass
+
+Lesson 4:
+sweetviz analyze() creates an html about the data.
+
+autoviz as well.
+
+sdv tabular oversamples for better analysis.
